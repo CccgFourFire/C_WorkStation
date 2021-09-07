@@ -1,0 +1,1 @@
+	printf("Opertaion Time is %6.2e\n", dDuration / mainCALL_MAX);
